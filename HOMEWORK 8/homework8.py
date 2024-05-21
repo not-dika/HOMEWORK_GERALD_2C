@@ -1,4 +1,4 @@
-import modul6 as db
+import modul8 as db
 
 database = []
 print("Program Manajemen Stock Barang")
